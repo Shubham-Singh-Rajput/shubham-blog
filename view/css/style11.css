@@ -1,0 +1,24 @@
+body{
+    background: white
+}
+.BLOG{
+    margin-left: 200px;
+    margin-right: 200px;
+    background: linear-gradient(to right, #ffb75e, #ed8f03);
+    border-radius: 40px;
+}
+label{
+    margin-left: 50px;
+}
+.h1{
+    font-style:oblique;
+    font-family: 'Monoton', cursive;
+    color:rgb(0, 38, 255)
+}
+.pqr{
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.t{
+    background-color: white;
+}
